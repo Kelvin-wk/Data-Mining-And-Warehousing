@@ -1,5 +1,7 @@
 # Data Mining and Warehousing
-
+# Project Repository
+You can find the full project here:  
+[Data Mining and Warehousing Repo](https://github.com/Kelvin-wk/Data-Mining-And-Warehousing)
 ## Project Overview
 This repository contains coursework and practical implementations for **Data Mining and Warehousing**.  
 It explores concepts such as:
